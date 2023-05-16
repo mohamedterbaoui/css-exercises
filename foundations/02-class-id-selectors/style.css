@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: hsl(351, 67%, 71%);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+
+.special{
+        font-size: 24px;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
